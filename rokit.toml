@@ -1,0 +1,6 @@
+# Tools managed by Rokit (https://github.com/rojo-rbx/rokit): run `rokit install` once.
+
+[tools]
+lune = "lune-org/lune@0.10.5"
+StyLua = "JohnnyMorganz/StyLua@2.5.2"
+selene = "Kampfkarren/selene@0.32.0"
